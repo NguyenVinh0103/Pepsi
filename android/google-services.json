@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933390037566",
+    "project_id": "pepsi-8c11d",
+    "storage_bucket": "pepsi-8c11d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933390037566:android:1e17b0441af17e537f976f",
+        "android_client_info": {
+          "package_name": "com.pepsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933390037566-kbsv8bv03b92d5p51rkhc53javk9scgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8QmuMKLdr67Je6H9JtjP6JT8j2gCZjJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933390037566-kbsv8bv03b92d5p51rkhc53javk9scgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
